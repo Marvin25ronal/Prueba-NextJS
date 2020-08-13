@@ -9,3 +9,8 @@ npm install next react react-dom
   "build": "next build",
   "start": "next start"
 }
+
+
+
+
+#npm run dev
